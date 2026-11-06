@@ -65,3 +65,8 @@ The main objective of this project is to learn how to develop a desktop-based ap
 ## 👩‍💻 Author
 **Tithi Biswas**
 
+
+##Output:
+
+<img width="1322" height="832" alt="image" src="https://github.com/user-attachments/assets/59bec803-6c8d-4711-ab72-50f37fe05ed8" />
+
